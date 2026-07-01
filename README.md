@@ -99,13 +99,6 @@ Full requirements are in the exercise PDF. You're not expected to finish all fiv
 - **Practise narrating aloud** while you code — the interview scores communication as heavily as the code itself.
 - **Time-box each feature** (see the step-by-step guide) so you don't spend 60 minutes on login and never reach the bet slip.
 
-## Related documents
-
-| Document | Description |
-|----------|-------------|
-| `betzone-exercise-requirements.pdf` | The exercise brief (what the interviewer would hand you) |
-| `betzone-step-by-step-guide.pdf` | Detailed walkthrough with data shapes and implementation order |
-
 ## Tech stack
 
 | Component | Library |
